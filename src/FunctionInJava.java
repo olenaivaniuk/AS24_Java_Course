@@ -3,7 +3,7 @@ import java.text.DecimalFormat;
 
 
 
-public class ThirdDay9 {
+public class FunctionInJava {
     public static void main(String[] args) {
         double areaCircle = calculateCircleArea(5);
 
@@ -15,9 +15,9 @@ public class ThirdDay9 {
         System.out.println("Number of Children is " + numberOfChildren(33, "Elena", 1.72));
         System.out.println("Character is " + function1(65));
         System.out.println("Number is " + function2('A'));
-        System.out.println("Result with FOR " + powerCountWithFor(2, 3));
-        System.out.println("Result with WHILE " + powerCountWithWhile(2, 2));
-        System.out.println("Fibonacci is " + fibonacciCounter(2));
+        System.out.println("Result with FOR " + powerCountWithFor(2, 8));
+        System.out.println("Result with WHILE " + powerCountWithWhile(2, 8));
+        System.out.println("Fibonacci is " + fibonacciCounter(7));
         System.out.println("Fib " + fib(7));
 
 

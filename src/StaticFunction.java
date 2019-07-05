@@ -1,10 +1,10 @@
-public class Test1 {
+public class StaticFunction {
     int a;
     static int b;
 
     public static void main(String[] args) {
-        Test1 t1 = new Test1();
-        Test1 t2 = new Test1();
+        StaticFunction t1 = new StaticFunction();
+        StaticFunction t2 = new StaticFunction();
 
         t1.a = 100;
         t2.a = 200;
@@ -20,7 +20,7 @@ public class Test1 {
 
         t2.b =200;
 
-        Test1.b = t1.a;
+        StaticFunction.b = t1.a;
 
         System.out.println(t1.b);
         System.out.println(t2.b);

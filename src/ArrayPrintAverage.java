@@ -1,7 +1,7 @@
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class ForthDay3 {
+public class ArrayPrintAverage {
     public static void main(String str[]) {
 
         int numbers[] = new int[3];

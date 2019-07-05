@@ -1,4 +1,4 @@
-public class ForthDay2 {
+public class ArraysTypes {
     public static void main(String str[]) {
         int numbers[] = new int [5];
         String names[] = new String[3];

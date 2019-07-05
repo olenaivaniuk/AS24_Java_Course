@@ -1,4 +1,4 @@
-public class ForthDay1 {
+public class RecursionSumFunction {
     public static void main(String str[]) {
         System.out.println(sum(5));
 

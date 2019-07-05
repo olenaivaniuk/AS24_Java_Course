@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ThirdDay3 {
+public class SumFunction {
 
     /*Ask  10 times for a number from user and print in the end the sum of numbers*/
 

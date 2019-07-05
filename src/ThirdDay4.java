@@ -13,7 +13,9 @@ public class ThirdDay4 {
 
 
         }
-        System.out.println("Factorial is: " + fac);
+         int a = 1*2*3*4*5*6*7*8;
+        System.out.println("Factorial is: " + fac
+        );
 
 
     }
